@@ -1,0 +1,42 @@
+*{margin: 0%;
+text-align: center;}
+body{
+ background: linear-gradient(45deg,skyblue,coral,limegreen);
+}
+#header {
+ background: black;
+ height: 70px;
+
+}h1
+{color: cornsilk;}
+#brand{
+ width: 40%;
+ float: left;
+ line-height: 70px;
+ text-align: center;
+ 
+ 
+
+}
+#menu{width: 60%;
+ float: right;
+ line-height: 70px;
+ text-align: center;
+
+
+}
+a{
+ color:cornsilk;
+ margin-right: 30px;
+ text-decoration: none;
+}
+table{width: 100%;
+margin: 30px;}
+image {border-radius: 10px;
+box-shadow: 0 0 10px wheat;}
+
+p{margin: 30px;}
+h2{margin: 20px;}
+
+
+

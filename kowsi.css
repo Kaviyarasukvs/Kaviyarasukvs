@@ -1,14 +1,16 @@
 *{margin: 0%;
 text-align: center;}
 body{
- background: linear-gradient(45deg,skyblue,coral,limegreen);
+ background: linear-gradient(45deg,rgb(0, 176, 240),orange);
 }
 #header {
  background: black;
  height: 70px;
-
-}h1
+color: wheat;
+}
+#kows
 {color: cornsilk;}
+
 #brand{
  width: 40%;
  float: left;
@@ -36,7 +38,47 @@ image {border-radius: 10px;
 box-shadow: 0 0 10px wheat;}
 
 p{margin: 30px;}
-h2{margin: 20px;}
+h2{margin: 30px;
 
+background: linear-gradient(45deg,red,black);
+color: wheat;
+width: 500px;
+padding: 15px;
+border-radius: 50%;
+margin: auto}
+#dog{margin: 20px;
+
+ background: linear-gradient(45deg,red,black);
+ color: wheat;
+ width: 544px;
+ padding: 8px;
+ border-radius: 50%;
+ margin: auto}
+ #j{background-color:black;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
 
 
